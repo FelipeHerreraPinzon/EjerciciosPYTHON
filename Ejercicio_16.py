@@ -1,0 +1,1 @@
+#  Automatizar el proceso para encontrar el área de un rectángulo cuya diagonal es d y un lado mide x

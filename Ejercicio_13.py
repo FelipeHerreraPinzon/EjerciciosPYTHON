@@ -1,0 +1,1 @@
+# Automatizar el proceso para encontrar el perímetro y el área de un cuadrado cuyo lado mide x
